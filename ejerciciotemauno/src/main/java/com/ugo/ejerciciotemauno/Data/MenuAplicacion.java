@@ -214,8 +214,8 @@ try {
 			System.out.print("Enter an City: ");
 			nameCityString = sc.next();
 			
-			
-			//URL url = new URL("https://api.openweathermap.org/data/2.5/weather?lat=38.3452&lon=-0.4815&appid=c493f3a45248ed9d8cb1fe7997858cff");
+			//https://api.openweathermap.org/data/2.5/weather?q=madrid&mode=xml&appid=c493f3a45248ed9d8cb1fe7997858cff
+			//URL url = new URL("https://api.openweathermap.org/data/2.5/weather?lat=38.3452&lon=-0.4815&mode=xml&appid=c493f3a45248ed9d8cb1fe7997858cff");
 			URL url = new URL("https://api.openweathermap.org/data/2.5/weather?q="+ nameCityString +"&mode=xml&appid=c493f3a45248ed9d8cb1fe7997858cff");
 
 			
