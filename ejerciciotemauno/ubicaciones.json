@@ -1,1 +1,5 @@
-"{\"coord\":{\"lon\":-0.4815,\"lat\":38.3452},\"weather\":[{\"id\":800,\"main\":\"Clear\",\"description\":\"clear sky\",\"icon\":\"01d\"}],\"base\":\"stations\",\"main\":{\"temp\":297.92,\"feels_like\":298.62,\"temp_min\":296.32,\"temp_max\":300.9,\"pressure\":1015,\"humidity\":83},\"visibility\":10000,\"wind\":{\"speed\":2.06,\"deg\":170},\"clouds\":{\"all\":0},\"dt\":1666539656,\"sys\":{\"type\":1,\"id\":6391,\"country\":\"ES\",\"sunrise\":1666505904,\"sunset\":1666545231},\"timezone\":7200,\"id\":6355390,\"name\":\"Alicante\",\"cod\":200}"
+{
+  "Nombre": "Damaturu",
+  "Temperatura": 306.33,
+  "Humedad": 22.0
+}
